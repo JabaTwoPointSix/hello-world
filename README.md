@@ -1,2 +1,3 @@
 # hello-world
-this is just to test how this is done
+
+Just removed the things above, no need form them in this test
